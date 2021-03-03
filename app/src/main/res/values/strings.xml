@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lopena_datatypes</string>
+    <item name="displaytext" type="id"></item>
+</resources>
